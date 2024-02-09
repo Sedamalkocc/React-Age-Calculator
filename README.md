@@ -22,7 +22,7 @@ To run the project locally, follow these steps:
 1. Clone the project:
 
 ```
-https://github.com/Sedamalkocc/React-Age-Calculator.git
+git clone https://github.com/Sedamalkocc/React-Age-Calculator.git
 ```
 
 2. Go to the project directory:
